@@ -6,9 +6,9 @@ import { getList } from './components/GetData';
 function App() {
   return (
     <div className="App">
-      <h2>SMART PROTECTION</h2>
+      <h2>IOT BASED RELAY</h2>
       <SendData />
-      <h2>---------------------</h2>
+      <h2></h2>
       <GetData />
     </div>
   );
